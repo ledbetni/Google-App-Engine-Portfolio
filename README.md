@@ -1,7 +1,5 @@
 #
-## Portfolio Project: API Spec
-
-CS 493: Cloud Application Development
+## Google Cloud Platform API Documentation
 
 Nicholas Ledbetter
 
